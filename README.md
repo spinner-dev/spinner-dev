@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">¡Quiúbole! Soy Martin Rangel 👋</h1>
+<p align="center">
+🧠 Backend Developer · 🛰️ Explorador de Arquitecturas · 🌩️ Fan de lo cloud-native <br>
+🌮 Código, mezcal y microservicios... ¡así se construye el futuro!
+</p>
 
-<!--
-**spinner-dev/spinner-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚧 En lo que ando ahora...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🛠️ **Diseñando y desarrollando el nuevo motor de reglas de lealtad para Spin Premia**  
+⚙️ Un reto de lógica, escalabilidad y propósito real.
+
+---
+
+### 🌩️ Mi enfoque profesional
+
+Me apasiona construir **soluciones en la nube robustas y escalables**, que no solo funcionen, sino que **ayuden a Spin a facilitar la vida de millones de familias mexicanas 🇲🇽**.  
+Exploro constantemente buenas prácticas, patrones modernos y tecnologías que empujan los límites de lo posible.
+
+---
+
+### 📊 Stats en tiempo real
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spinner-dev&show_icons=true&theme=tokyonight&hide=issues&custom_title=Mis Stats de Código 💻" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=spinner-dev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+### 🧠 Lo que me interesa seguir aprendiendo
+
+- 🧱 Diseño de arquitecturas limpias y desacopladas (DDD, CQRS, Event-Driven)
+- ⚡ Optimización y automatización en cloud (AWS FTW)
+- 📦 Orquestación de microservicios y pipelines DevOps
+- 💬 Aplicaciones con LLMs y agentes autónomos
+
+---
+
+### 🎮 Hobbies & Pasiones
+
+- 🎧 Lo-fi + código = flow infinito
+- 📚 Libros sobre sistemas, filosofía y neurociencia
+- 🎮 Retrogaming (SNES, N64, Smash Bros y más)
+- 🛫 Viajes para entender culturas, personas y procesos
+- ☕ Cafecito + debugging = insight asegurado
+
+---
+
+### 💬 Frases que me motivan
+
+> “No hay código perfecto, solo sistemas que evolucionan bien.”  
+> — Una pull request bien hecha
+
+> “La arquitectura buena es la que entiendes después de una birria 🍜.”  
+> — Algún senior con experiencia
+
+> “Amo cuando un sistema responde bien en producción... sin morir.”  
+> — Yo, después de monitorear en CloudWatch
+
+---
+
+### 🌐 Conecta conmigo
+
+- 📍 Puebla, México
+- 📧 jose.rangel@spin.co
+- 🧠 [LinkedIn](https://linkedin.com/in/martinrangel)
+- 🌐 [spinner-dev.github.io](https://spinner-dev.github.io)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spinner-dev&label=Visitas+al+perfil&color=brightgreen" />
+</p>
