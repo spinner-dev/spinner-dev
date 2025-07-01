@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=15F5BA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%92%BB+Construyendo+sistemas+escalables+en+la+nube;...con+sabor+mexicano+%F0%9F%87%B2%F0%9F%87%BD+y+m%C3%A1s+de+una+birria+de+por+medio;...apasionado+del+backend%2C+la+IA+y+DDD+;Siempre+aprendiendo%2C+siempre+iterando+%F0%9F%94%91" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=true&width=800&height=160&lines=%F0%9F%96%8C%EF%B8%8F+Construyendo+sistemas+en+la+nube;...con+sabor+mexicano+%F0%9F%87%B2%F0%9F%87%BD+y+una+birria+de+por+medio;...fan+del+backend%2C+la+IA+y+DDD;...so%C3%B1ando+con+arquitecturas+limpias+y+eventos;Siempre+aprendiendo%2C+siempre+iterando+%F0%9F%94%91" alt="Typing SVG" />
 </p>
 
 <h1 align="center">¡Quiúbole! Soy Martin Rangel 👋</h1>
